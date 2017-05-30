@@ -1,3 +1,4 @@
+---
 layout:     post                       # 使用的布局（不需要改）
 title:      Inspiration May                 
 subtitle:   Welcome 
@@ -7,7 +8,7 @@ header-img: img/post-bg-2015.jpg     #这篇文章标题背景图片
 catalog: true                         # 是否归档
 tags:                                #标签
     - life
-
+---
 ## Inspiration 5/30
 
 - It is true that I do not like to work. But remember the time that I have nothing to do, I feel nervous inside and I am on the edge of laying off. 
