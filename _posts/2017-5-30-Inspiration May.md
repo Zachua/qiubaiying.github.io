@@ -11,8 +11,7 @@ tags:                                #标签
 ---
 ## Inspiration 5/30
 
-- It is true that I do not like to work. But remember the time that I have nothing to do, I feel nervous inside and I am on the edge of laying off. 
-That is worse than I am too busy. If I am busy, I can still find ways to rest and find the connection between myself with others and the world. I have nothing to do, I feel I am lonely and isoloated to the world. That is
-the terrible feeling I have. I wish I can get rid of them. 
-- I have to be too busy with trivial things. I may have too much to worry and do not have personal time. I am just like one small screw on the Eiffel towel. The more busy I am, the worse I feel. I feel I am abandon by others and the world. 
+- It is true that I do not like to work. But remember the time that I had nothing to do on work, I feel nervous inside and am on the lay-off edge. It is worse than too busy. If I am busy, I still have the chance to get balance and the connection between myself with others and the world. If I have nothing to do, I feel lonely and isoloated to the world. That is the terrible feeling.
+
+- In addtion, I hate to be busy with trivial things. As a result, I can not foucus and have limited personal time. I am just like one small screw on the Eiffel towel. The more busy, the worse I feel. I feel abandon by others and the world. 
   
