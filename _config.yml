@@ -94,13 +94,15 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "github",
+        title: "baiying qiu",
         href: "http://qiubaiying.github.io"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "sachac hua",
+        href: "http://sachachua.com/blog/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+        title: "Paul Graham",
+        href: "http://www.ruanyifeng.com/docs/pg/"
+    },{
+        title: "yifeng ruan",
+        href: "http://www.ruanyifeng.com/blog/"}
 ]
