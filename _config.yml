@@ -11,14 +11,14 @@ github_repo: "https://github.com/Zachua/zachua.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Beauty is worth of time!"
+sidebar-about-description: "艺术是你任何能做到极致的事"
 sidebar-avatar: img/Zachary_img1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     huazhenhu@hotmail.com
 zhihu_username:     
 github_username:    zachua
 facebook_username:  
