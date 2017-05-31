@@ -55,7 +55,7 @@ kramdown:
 
 
 # 评论系统
-# Disqus settings（https://disqus.com/）
+Disqus settings（https://disqus.com/）
 disqus_username: zhenhuhua
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
@@ -94,15 +94,15 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "baiying qiu",
-        href: "http://qiubaiying.github.io"
-    },{
-        title: "sachac hua",
+        title: "Sachac Hua",
         href: "http://sachachua.com/blog/"
     },{
         title: "Paul Graham",
         href: "http://www.ruanyifeng.com/docs/pg/"
     },{
-        title: "yifeng ruan",
-        href: "http://www.ruanyifeng.com/blog/"}
+        title: "Yifeng Ruan",
+        href: "http://www.ruanyifeng.com/blog/"
+    },{
+        title: "Baiying Qiu",
+        href: "http://qiubaiying.github.io"}
 ]
