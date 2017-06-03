@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Why we feel tired even if we just sit and do nothing?
-subtitle:   Meaning
+title:      Why We Feel Tired?
+subtitle:   life&Meaning
 date:       2017-6-3
 author:     Zachary
 header-img: img/post-bg-ios9-web.jpg
