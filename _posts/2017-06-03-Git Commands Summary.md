@@ -12,8 +12,7 @@ tags:
     - Git
 ---
 
-
-# GitHub创建仓库提示代码
+GitHub创建仓库提示代码
 
 	echo "# ProjectName” >> README.md
 	git init
